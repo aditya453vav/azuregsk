@@ -10,7 +10,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "users_001 - Copy.csv",
 				"fileSystem": "container01"
 			},
 			"columnDelimiter": ",",

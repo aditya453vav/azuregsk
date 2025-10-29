@@ -19,7 +19,7 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "AzureBlobFSReadSettings",
-							"recursive": true,
+							"fileListPath": "container01/users_001 - Cop.txt",
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
