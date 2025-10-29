@@ -1,0 +1,9 @@
+{
+	"name": "adityadatafsctorygsk",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d8a5ddf-7a66-4900-b880-3e6068ff45b3",
+		"tenantId": "734bc3b3-5f14-49f7-a817-85c51014064d"
+	}
+}
